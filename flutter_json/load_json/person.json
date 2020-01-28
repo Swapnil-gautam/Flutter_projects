@@ -1,0 +1,26 @@
+[
+  {
+    "name" : "Random gautam",
+    "age"  : "22",
+    "height" : "5,11",
+    "sex" : "Male"
+  },
+  {
+    "name" : "Mohit Kenia",
+    "age"  : "12",
+    "height" : "4,11",
+    "sex" : "Male"
+  },
+  {
+    "name" : "Shubham shah",
+    "age"  : "12",
+    "height" : "4,11",
+    "sex" : "Male"
+  },
+  {
+    "name" : "Larry Page",
+    "age"  : "42",
+    "height" : "5,11",
+    "sex" : "Male"
+  }
+]
