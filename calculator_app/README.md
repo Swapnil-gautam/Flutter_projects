@@ -1,6 +1,7 @@
 # calculator_app
 
-A new Flutter application.
+A basic calculator app that provides user the functionality to Add, Subtract, Multiply, Divide, and Clear
+
 
 ## Getting Started
 
