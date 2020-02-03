@@ -1,8 +1,8 @@
 # calculator_app
 
 A basic calculator app that provides user the functionality to Add, Subtract, Multiply, Divide, and Clear
+![Webp net-resizeimage](https://user-images.githubusercontent.com/51311257/73653727-e39a9000-46af-11ea-9b8b-078ef3c0f681.png)
 
-![Screenshot_2020-01-28-17-47-22-81_632ad3932e1ed1db667a8ad307e61fab](https://user-images.githubusercontent.com/51311257/73653230-be595200-46ae-11ea-88c1-e846737bdcf3.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
