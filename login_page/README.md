@@ -1,6 +1,6 @@
 # login_page
 
-A new Flutter application.
+A Basic login page UI for trekking app.
 
 ![Webp net-resizeimage](https://user-images.githubusercontent.com/51311257/73654835-a84d9080-46b2-11ea-937f-77da05c2b3b1.png)
 
